@@ -1,0 +1,374 @@
+[INFO|tfgenerator.py:168] 2022-05-27 17:54:44,098 > TF Record Generator Start
+[INFO|tfgenerator.py:168] 2022-05-27 17:57:06,034 > TF Record Generator Start
+[INFO|tfgenerator.py:168] 2022-05-27 18:02:11,152 > TF Record Generator Start
+[INFO|tfgenerator.py:170] 2022-05-27 21:04:37,572 > TF Record Generator Start
+[INFO|tfgenerator.py:169] 2022-05-27 21:05:22,457 > TF Record Generator Start
+[INFO|tfgenerator.py:169] 2022-05-27 21:10:40,843 > TF Record Generator Start
+[INFO|tfgenerator.py:169] 2022-05-27 21:12:05,833 > TF Record Generator Start
+[INFO|tfgenerator.py:172] 2022-05-27 21:12:34,914 > TF Record Generator Start
+[INFO|tfgenerator.py:170] 2022-05-27 21:13:33,284 > TF Record Generator Start
+[INFO|tfgenerator.py:169] 2022-05-27 21:14:24,809 > TF Record Generator Start
+[INFO|tfgenerator.py:169] 2022-05-27 21:14:40,614 > TF Record Generator Start
+[INFO|tfgenerator.py:170] 2022-05-27 21:15:15,770 > TF Record Generator Start
+[INFO|tfgenerator.py:170] 2022-05-27 21:15:48,099 > TF Record Generator Start
+[INFO|tfgenerator.py:170] 2022-05-27 21:16:12,824 > TF Record Generator Start
+[INFO|tfgenerator.py:170] 2022-05-27 21:17:38,394 > TF Record Generator Start
+[INFO|tfgenerator.py:170] 2022-05-27 21:19:05,298 > TF Record Generator Start
+[INFO|tfgenerator.py:170] 2022-05-27 21:19:25,632 > TF Record Generator Start
+[INFO|tfgenerator.py:170] 2022-05-27 21:19:31,323 > TF Record Generator Start
+[INFO|tfgenerator.py:169] 2022-05-27 21:19:55,202 > TF Record Generator Start
+[INFO|tfgenerator.py:169] 2022-05-27 21:20:22,953 > TF Record Generator Start
+[INFO|tfgenerator.py:169] 2022-05-27 21:20:46,074 > TF Record Generator Start
+[INFO|tfgenerator.py:169] 2022-05-27 21:21:18,080 > TF Record Generator Start
+[INFO|tfgenerator.py:169] 2022-05-27 21:26:08,994 > TF Record Generator Start
+[INFO|tfgenerator.py:169] 2022-05-27 21:26:39,188 > TF Record Generator Start
+[INFO|tfgenerator.py:169] 2022-05-27 22:01:14,900 > TF Record Generator Start
+[INFO|tfgenerator.py:168] 2022-05-27 22:12:07,787 > TF Record Generator Start
+[INFO|tfgenerator.py:168] 2022-05-27 22:12:44,957 > TF Record Generator Start
+[INFO|tfgenerator.py:168] 2022-05-27 22:15:43,364 > TF Record Generator Start
+[INFO|tfgenerator.py:168] 2022-05-27 22:15:53,543 > TF Record Generator Start
+[INFO|tfgenerator.py:168] 2022-05-27 22:16:25,091 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:16:25,138 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:16:25,138 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:16:25,138 >     1           meerkat          124        32    
+[INFO|tfgenerator.py:24] 2022-05-27 22:16:25,138 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:16:25,138 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:16:25,138 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:16:25,138 >     5          pomeranian         86        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:17:16,811 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:17:16,875 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:17:16,875 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:17:16,875 >     1           meerkat          124        32    
+[INFO|tfgenerator.py:24] 2022-05-27 22:17:16,875 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:17:16,875 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:17:16,875 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:17:16,875 >     5          pomeranian         86        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:17:39,199 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:17:39,248 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:17:39,248 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:17:39,248 >     1           meerkat          124        32    
+[INFO|tfgenerator.py:24] 2022-05-27 22:17:39,248 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:17:39,248 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:17:39,248 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:17:39,248 >     5          pomeranian         86        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:19:20,393 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:19:20,442 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:19:20,442 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:19:20,442 >     1           meerkat          124        32    
+[INFO|tfgenerator.py:24] 2022-05-27 22:19:20,442 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:19:20,442 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:19:20,442 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:19:20,442 >     5          pomeranian         86        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:20:00,822 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:20:00,877 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:20:00,877 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:20:00,877 >     1           meerkat          124        32    
+[INFO|tfgenerator.py:24] 2022-05-27 22:20:00,877 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:20:00,877 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:20:00,877 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:20:00,877 >     5          pomeranian         86        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:21:41,878 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:21:41,926 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:21:41,926 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:21:41,926 >     1           meerkat          124        32    
+[INFO|tfgenerator.py:24] 2022-05-27 22:21:41,926 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:21:41,926 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:21:41,926 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:21:41,926 >     5          pomeranian         86        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:22:19,075 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:22:19,123 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:22:19,123 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:22:19,123 >     1           meerkat          124        32    
+[INFO|tfgenerator.py:24] 2022-05-27 22:22:19,138 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:22:19,138 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:22:19,138 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:22:19,138 >     5          pomeranian         86        22    
+[INFO|tfgenerator.py:171] 2022-05-27 22:22:52,188 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:22:52,236 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:22:52,236 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:22:52,236 >     1           meerkat          124        32    
+[INFO|tfgenerator.py:24] 2022-05-27 22:22:52,236 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:22:52,236 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:22:52,236 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:22:52,236 >     5          pomeranian         86        22    
+[INFO|tfgenerator.py:171] 2022-05-27 22:23:18,974 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:23:19,022 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:23:19,022 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:23:19,022 >     1           meerkat          124        32    
+[INFO|tfgenerator.py:24] 2022-05-27 22:23:19,022 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:23:19,022 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:23:19,022 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:23:19,022 >     5          pomeranian         86        22    
+[INFO|tfgenerator.py:171] 2022-05-27 22:25:55,756 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:25:55,804 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:25:55,804 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:25:55,804 >     1           meerkat          124        32    
+[INFO|tfgenerator.py:24] 2022-05-27 22:25:55,804 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:25:55,804 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:25:55,804 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:25:55,804 >     5          pomeranian         86        22    
+[INFO|tfgenerator.py:171] 2022-05-27 22:30:16,307 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:30:16,355 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:30:16,355 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:30:16,371 >     1           meerkat          124        32    
+[INFO|tfgenerator.py:24] 2022-05-27 22:30:16,371 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:30:16,371 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:30:16,371 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:30:16,371 >     5          pomeranian         86        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:33:49,889 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:33:49,937 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:33:49,937 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:33:49,937 >     1           meerkat          124        32    
+[INFO|tfgenerator.py:24] 2022-05-27 22:33:49,953 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:33:49,953 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:33:49,953 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:33:49,953 >     5          pomeranian         86        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:34:13,200 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:34:13,248 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:34:13,248 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:34:13,248 >     1           meerkat          124        32    
+[INFO|tfgenerator.py:24] 2022-05-27 22:34:13,248 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:34:13,248 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:34:13,248 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:34:13,248 >     5          pomeranian         86        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:34:22,612 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:34:22,676 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:34:22,676 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:34:22,676 >     1           meerkat          124        32    
+[INFO|tfgenerator.py:24] 2022-05-27 22:34:22,676 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:34:22,676 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:34:22,676 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:34:22,676 >     5          pomeranian         86        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:35:11,646 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:35:11,694 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:35:11,694 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:35:11,694 >     1           meerkat          124        32    
+[INFO|tfgenerator.py:24] 2022-05-27 22:35:11,709 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:35:11,709 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:35:11,709 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:35:11,709 >     5          pomeranian         86        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:35:44,825 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:35:44,872 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:35:44,872 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:35:44,872 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:35:44,888 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:35:44,888 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:35:44,888 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:35:44,888 >     5          pomeranian         86        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:36:03,645 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:36:03,694 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:36:03,694 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:36:03,709 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:36:03,709 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:36:03,709 >     3            panda            96        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:36:03,709 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:36:03,709 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:36:23,048 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:36:23,096 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:36:23,096 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:36:23,096 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:36:23,096 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:36:23,096 >     3            panda            95        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:36:23,096 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:36:23,096 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:36:37,413 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:36:37,477 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:36:37,477 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:36:37,477 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:36:37,477 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:36:37,477 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:36:37,477 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:36:37,477 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:37:28,946 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:37:28,994 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:37:28,994 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:37:28,994 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:37:28,994 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:37:28,994 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:37:29,010 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:37:29,010 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:37:34,227 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:37:34,276 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:37:34,276 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:37:34,276 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:37:34,276 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:37:34,276 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:37:34,276 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:37:34,276 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:37:38,970 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:37:39,018 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:37:39,018 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:37:39,034 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:37:39,034 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:37:39,034 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:37:39,034 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:37:39,034 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:38:10,704 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:38:10,752 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:38:10,752 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:38:10,752 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:38:10,752 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:38:10,752 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:38:10,752 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:38:10,752 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:39:04,831 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:39:04,895 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:39:04,895 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:04,895 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:04,895 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:04,895 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:04,895 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:04,895 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:39:22,024 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:39:22,072 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:39:22,072 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:22,072 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:22,072 >     2            otter            88        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:22,072 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:22,072 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:22,072 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:39:39,628 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:39:39,675 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:39:39,675 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:39,675 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:39,691 >     2            otter            86        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:39,691 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:39,691 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:39,692 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:39:45,191 > TF Record Generator Start
+[INFO|tfgenerator.py:168] 2022-05-27 22:39:51,255 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:39:51,303 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:39:51,303 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:51,303 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:51,303 >     2            otter            86        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:51,303 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:51,303 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:51,303 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:39:57,069 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:39:57,117 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:39:57,117 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:57,117 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:57,117 >     2            otter            86        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:57,133 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:57,133 >     4           raccoon           92        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:39:57,133 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:40:17,902 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:40:17,949 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:40:17,949 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:40:17,949 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:40:17,965 >     2            otter            86        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:40:17,965 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:40:17,966 >     4           raccoon           91        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:40:17,966 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:41:14,186 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:41:14,247 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:41:14,248 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:14,249 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:14,252 >     2            otter            86        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:14,253 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:14,253 >     4           raccoon           91        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:14,253 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:41:19,923 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:41:19,974 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:41:19,974 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:19,974 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:19,974 >     2            otter            86        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:19,974 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:19,974 >     4           raccoon           91        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:19,974 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:41:42,187 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:41:42,249 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:41:42,249 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:42,249 >     1           meerkat          124        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:42,249 >     2            otter            85        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:42,249 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:42,249 >     4           raccoon           91        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:42,249 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:41:57,465 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:41:57,513 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:41:57,513 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:57,513 >     1           meerkat          123        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:57,513 >     2            otter            85        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:57,513 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:57,513 >     4           raccoon           91        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:41:57,513 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:42:44,532 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:42:44,580 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:42:44,580 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:42:44,580 >     1           meerkat          123        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:42:44,580 >     2            otter            84        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:42:44,580 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:42:44,580 >     4           raccoon           91        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:42:44,580 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:43:03,616 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:43:03,664 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:43:03,664 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:43:03,664 >     1           meerkat          120        31    
+[INFO|tfgenerator.py:24] 2022-05-27 22:43:03,664 >     2            otter            84        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:43:03,664 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:43:03,664 >     4           raccoon           91        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:43:03,664 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:43:20,672 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:43:20,726 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:43:20,726 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:43:20,726 >     1           meerkat          120        30    
+[INFO|tfgenerator.py:24] 2022-05-27 22:43:20,726 >     2            otter            84        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:43:20,726 >     3            panda            94        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:43:20,726 >     4           raccoon           91        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:43:20,726 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:43:43,290 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:43:43,339 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:43:43,339 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:43:43,339 >     1           meerkat          120        30    
+[INFO|tfgenerator.py:24] 2022-05-27 22:43:43,339 >     2            otter            84        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:43:43,339 >     3            panda            93        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:43:43,339 >     4           raccoon           91        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:43:43,339 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:44:09,114 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:44:09,162 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:44:09,162 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:44:09,178 >     1           meerkat          120        30    
+[INFO|tfgenerator.py:24] 2022-05-27 22:44:09,178 >     2            otter            84        22    
+[INFO|tfgenerator.py:24] 2022-05-27 22:44:09,178 >     3            panda            93        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:44:09,178 >     4           raccoon           90        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:44:09,178 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:44:21,545 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:44:21,593 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:44:21,593 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:44:21,609 >     1           meerkat          120        30    
+[INFO|tfgenerator.py:24] 2022-05-27 22:44:21,609 >     2            otter            83        21    
+[INFO|tfgenerator.py:24] 2022-05-27 22:44:21,609 >     3            panda            93        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:44:21,609 >     4           raccoon           90        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:44:21,609 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:168] 2022-05-27 22:44:34,969 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:44:35,017 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:44:35,017 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:44:35,017 >     1           meerkat          120        30    
+[INFO|tfgenerator.py:24] 2022-05-27 22:44:35,017 >     2            otter            82        21    
+[INFO|tfgenerator.py:24] 2022-05-27 22:44:35,017 >     3            panda            93        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:44:35,017 >     4           raccoon           90        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:44:35,017 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:201] 2022-05-27 22:44:35,974 > TF Record Generator End [ Total Generator time : 0 Hour 0 Minute 1 Second ]
+[INFO|tfgenerator.py:167] 2022-05-27 22:45:10,427 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 22:45:10,475 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 22:45:10,475 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 22:45:10,475 >     1           meerkat          120        30    
+[INFO|tfgenerator.py:24] 2022-05-27 22:45:10,475 >     2            otter            82        21    
+[INFO|tfgenerator.py:24] 2022-05-27 22:45:10,475 >     3            panda            93        24    
+[INFO|tfgenerator.py:24] 2022-05-27 22:45:10,475 >     4           raccoon           90        23    
+[INFO|tfgenerator.py:24] 2022-05-27 22:45:10,475 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:200] 2022-05-27 22:45:11,044 > TF Record Generator End [ Total Generator time : 0 Hour 0 Minute 0 Second ]
+[INFO|main.py:92] 2022-05-27 22:46:11,859 > Program start [ model : faster_rcnn_inception_v2_coco_2018_01_28, num steps : 50000 ]
+[INFO|utils.py:79] 2022-05-27 22:46:11,859 > faster_rcnn_inception_v2_coco_2018_01_28 Model not Exist. Download start
+[INFO|utils.py:110] 2022-05-27 22:46:29,965 > faster_rcnn_inception_v2_coco_2018_01_28 Download success
+[INFO|main.py:24] 2022-05-27 22:46:29,987 > Transfer learning start
+[ERROR|main.py:37] 2022-05-27 22:46:33,279 > Transfer leaarning Error
+[INFO|tfgenerator.py:168] 2022-05-27 23:56:24,931 > TF Record Generator Start
+[INFO|tfgenerator.py:21] 2022-05-27 23:56:25,017 >                 TF Record Summary                 
+[INFO|tfgenerator.py:22] 2022-05-27 23:56:25,017 >     ID            NAME          Train    Validate 
+[INFO|tfgenerator.py:24] 2022-05-27 23:56:25,017 >     1           meerkat          120        30    
+[INFO|tfgenerator.py:24] 2022-05-27 23:56:25,017 >     2            otter            82        21    
+[INFO|tfgenerator.py:24] 2022-05-27 23:56:25,017 >     3            panda            93        24    
+[INFO|tfgenerator.py:24] 2022-05-27 23:56:25,017 >     4           raccoon           90        23    
+[INFO|tfgenerator.py:24] 2022-05-27 23:56:25,017 >     5          pomeranian         85        22    
+[INFO|tfgenerator.py:201] 2022-05-27 23:56:25,703 > TF Record Generator End [ Total Generator time : 0 Hour 0 Minute 0 Second ]
