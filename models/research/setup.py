@@ -4,7 +4,7 @@ from setuptools import find_packages
 from setuptools import setup
 
 REQUIRED_PACKAGES = ['pillow', 'lxml', 'matplotlib', 'Cython',
-                     'contextlib2', 'tf-slim', 'six', 'pycocotools', 'lvis',
+                     'contextlib2', 'tf-slim', 'six', 'pycocotools-windows', 'lvis',
                      'scipy', 'pandas']
 
 setup(
