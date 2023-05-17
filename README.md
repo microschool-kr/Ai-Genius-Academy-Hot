@@ -4,7 +4,8 @@
 1. Python 3.7.9 버전 설치 [https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64.exe](https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64.exe)
 2. [https://github.com/microschool-kr/Ai-Genius-Academy-Spicy](https://github.com/microschool-kr/Ai-Genius-Academy-Spicy) 에서 코드 다운로드
 3. 압축풀고 파일탐색기에서 google_images_download 폴더 들어간 후 주소창에 cmd 입력해서 터미널 켜고 `pip install .`
-4. `googleimagesdownload --keywords "keywords" --limit 10` 으로 실행
+4. `googleImg -k 검색어 -l 개수` 으로 실행
+> \-k 옵션은 검색어(keyword, 키워드), \-l 옵션은 개수(limit)
 5. `pip install labelImg`
 6. 터미널에 `labelImg` 입력해서 실행
 7. Open Dir 버튼 눌러서 사진 크롤링된 폴더 열기

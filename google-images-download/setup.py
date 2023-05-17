@@ -44,7 +44,7 @@ setup(
     author_email='hnvasa@gmail.com',
     entry_points={
         'console_scripts': [
-            'googleimagesdownload = google_images_download.google_images_download:main'
+            'googleImg = google_images_download.google_images_download:main'
         ]},
 
 )
