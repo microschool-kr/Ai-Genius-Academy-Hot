@@ -22,8 +22,9 @@
 15. `python main.py -n 50` 학습
     - -n 옵션으로 몇 step마다 evaluate할지 정합니다.
 16. model : 4 입력(faster_rcnn_inception_v2_coco), step: 500 입력
-17. `python object_detection_test.py` object detection 모델 테스트
-18. `cd eval_dir/faster_rcnn_inception_v2_coco`
-19. `tensorboard --logdir=./`
-20. 인터넷 브라우저 켜고 주소창에 `localhost:6006` 입력
-21. loss 그래프, evaluate한 바운딩박스 확인
+17. tensorflow_object_detection_helper_tool/object_detection/test_images 폴더에 테스트용 이미지 넣기
+18. `python object_detection_test.py` object detection 모델 테스트
+19. `cd eval_dir/faster_rcnn_inception_v2_coco`
+20. `tensorboard --logdir=./`
+21. 인터넷 브라우저 켜고 주소창에 `localhost:6006` 입력
+22. loss 그래프, evaluate한 바운딩박스 확인
